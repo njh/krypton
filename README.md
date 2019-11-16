@@ -53,4 +53,4 @@ You can find me on:
 # License
 This library is licensed under the MIT license.
 
-(c) 2019, OberonSPACE
+© 2019, OberonSPACE
