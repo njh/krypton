@@ -53,4 +53,4 @@ You can find me on:
 # License
 This library is licensed under the MIT license.
 
-© 2019, OberonSPACE
+© 2019, Arteron Electronics d.o.o.
